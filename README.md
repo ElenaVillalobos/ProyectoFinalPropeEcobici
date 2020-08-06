@@ -2,6 +2,7 @@
 
 __________________________
 
+
 ### Equipo 6
 
 
@@ -15,7 +16,7 @@ Elena Villalobos: [ElenaVillalobos](https://github.com/ElenaVillalobos)
 
 #### Análisis de datos de *ECOBICI*
 
-Específicamente se analisaron las bases de: 
+Específicamente se analizaron las bases de: 
 
 - Mayo 2019
 - Mayo 2020
