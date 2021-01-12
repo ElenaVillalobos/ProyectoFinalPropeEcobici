@@ -1,10 +1,10 @@
-# practica-final-por-equipos-verano-2020
+# Análisis de datos de ECOBICI
+## Mayo 2019 y mayo 2020
 
 __________________________
 
 
-### Equipo 6
-
+### Autores:
 
 Darío Díaz:  [DarioDC](https://github.com/DarioDC)
 
