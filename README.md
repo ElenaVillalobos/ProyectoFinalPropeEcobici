@@ -10,7 +10,7 @@ Darío Díaz:  [DarioDC](https://github.com/DarioDC)
 
 Eduardo Moreno: [Eduardo-Moreno](https://github.com/Eduardo-Moreno)
 
-Elena Villalobos: [ElenaVillalobos](https://github.com/ElenaVillalobos)
+Elena Villalobos: [ElenaVillalobos](https://github.com/ElenaVillano)
 
 ### Tema:
 
